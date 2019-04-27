@@ -1,5 +1,5 @@
 baseURL = "https://blog.taq-f.space/"
-languageCode = "en-us"
+languageCode = "ja"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "m10c"
 hasCJKLanguage = true
