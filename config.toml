@@ -1,4 +1,4 @@
-baseURL = "https://blog-taq-f.netlify.com/"
+baseURL = "https://blog.taq-f.space/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
