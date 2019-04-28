@@ -9,23 +9,23 @@ paginate = 12
 
 [params]
     author = "taq-f"
-    logo = "/images/onepress-logo.png"
-    avatar = "/images/onepress-author.png"
-    opengraphImage = "/images/onepress-logo.jpg"
-    enableRSS = true
+    logo = "/images/gravatar.jpg"
+    avatar = "/images/gravatar.jpg"
+    # opengraphImage = "/images/onepress-logo.jpg"
+    # enableRSS = true
 
     customCSS = false
-    readMore = "Read Up"
+    readMore = "Read more"
     
     # Social
     github   = "https://github.com/taq-f"
 
     # Widget
-    widgets = true
+    # widgets = true
     
     # Author box and Share button
     authorCard = false 
-    shareButton = true
+    # shareButton = true
     
     # Code highlighting with highlight.js
     highlightJS = true
