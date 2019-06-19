@@ -15,3 +15,15 @@ core                  16-2.39                     6964  stable    canonical✓  
 core18                20190508                    970   stable    canonical✓    base
 gitkraken             5.0.4                       138   stable    gitkraken✓    -
 ```
+
+## Install package
+
+```
+sudo snap install gitkraken
+```
+
+## Update package
+
+```text
+sudo snap refresh gitkraken
+```
