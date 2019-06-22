@@ -2,6 +2,7 @@
 title: "Apache Beam"
 date: 2019-06-22T19:26:12+09:00
 draft: false
+tags: ["beam"]
 ---
 
 Walkthrough of Apache Beam GET STARTED documentation.
